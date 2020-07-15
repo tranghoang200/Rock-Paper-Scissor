@@ -2,7 +2,9 @@
 
 ![](demo.gif)
 
-Accomplishments 🥇🏆💯
+Try it out: https://expo.io/@tranghoang200/rock_paper_scissors
+
+# Accomplishments 🥇🏆💯
 
 - [x] User can select Rock, Paper, or Scissors
 - [x] User can see image of their selection
@@ -11,7 +13,7 @@ Accomplishments 🥇🏆💯
 - [x] User can see text of computer's selection
 - [x] User can see prompt indicating who won the round
 
-Rockets 🚀
+# Rockets 🚀
 - [x] User can see how many games they've played total
 - [x] User can see how games they've won, lose, tied.
 - [x] User can see the percentages of wins, losses, and tie games they've had.
